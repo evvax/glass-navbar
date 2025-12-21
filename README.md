@@ -1,2 +1,2 @@
 # Glass Navbar
-HTML & CSS -Glassmorphin style
+HTML & CSS - Glassmorphin style
